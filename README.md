@@ -6,7 +6,7 @@ Cuando se prueba un programa, se ejecuta con datos de entrada específicos y se 
 
 Al clonar este repositorio, es menester poner a consideracion lo siguiente:
  * Este proyecto fue realizado el el IDE IntelliJ IDEA por lo que se recomienda ejecutarlo en este IDE
- * El proyecto fue configurado con Maven por lo que se usaso la siguiente libreria para impletar JUnit:
+ * El proyecto fue configurado con Maven por lo que se uso la siguiente dependencia para impletar JUnit:
  ```
  <dependency>
       <groupId>junit</groupId>
