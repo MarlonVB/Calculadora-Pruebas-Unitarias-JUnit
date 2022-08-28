@@ -15,3 +15,8 @@ Al clonar este repositorio, es menester poner a consideracion lo siguiente:
   </dependency>
   
  ````
+ Esta dependencia debe ser colocada dentro del pom.xml, en la etiqueta dependencies como podemos observar en la siguiente imagen:
+
+ [![CALIDAD-CAL.png](https://i.postimg.cc/nzgqRCtQ/CALIDAD-CAL.png)](https://postimg.cc/sQPB1fxV)
+ 
+  > **_Nota:_** _Tomar en cuenta el formato mostrado en la imagen._
