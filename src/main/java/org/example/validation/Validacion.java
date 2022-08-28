@@ -11,6 +11,22 @@ public class Validacion {
         }
     }
 
+    public boolean ingresoObligatorio(String cadena){
+        if (cadena.length()!=0){
+            return true;
+        }else {
+            return false;
+        }
+    }
+
+    public boolean validarMayorque(String cadena){
+        if (Double.parseDouble(cadena)<100000){
+            return true;
+        }else {
+            return false;
+        }
+    }
+
     public boolean validacionDiv(double n2){
         if (n2!=0){
             return true;
